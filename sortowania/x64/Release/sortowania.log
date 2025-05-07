@@ -1,0 +1,49 @@
+﻿  main.cpp
+C:\Users\Kamil\source\repos\sortowania\sortowania\main.cpp(54,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\source\repos\sortowania\sortowania\quick_sort.h(52,46): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\Kamil\source\repos\sortowania\sortowania\main.cpp(109): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void quickSort<int>(T [],int,int)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\Kamil\source\repos\sortowania\sortowania\quick_sort.h(53,40): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\Kamil\source\repos\sortowania\sortowania\intro_sort.h(87,22): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kamil\source\repos\sortowania\sortowania\main.cpp(111): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void introSort<int>(T [],int,int)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\Kamil\source\repos\sortowania\sortowania\intro_sort.h(48,16): warning C4244: "inicjowanie": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\Kamil\source\repos\sortowania\sortowania\intro_sort.h(66): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void heapSort<T>(T *,T *,T *)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\Kamil\source\repos\sortowania\sortowania\intro_sort.h(88): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void introspectiveSort<T>(T *,T *,T *,int)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\Kamil\source\repos\sortowania\sortowania\main.cpp(111): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void introSort<int>(T [],int,int)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\Kamil\source\repos\sortowania\sortowania\intro_sort.h(35,16): warning C4244: "inicjowanie": konwersja z "__int64" do "int", możliwa utrata danych
+C:\Users\Kamil\source\repos\sortowania\sortowania\intro_sort.h(46): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void buildHeap<T>(T *,T *,T *)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\Kamil\source\repos\sortowania\sortowania\intro_sort.h(66): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void heapSort<T>(T *,T *,T *)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+C:\Users\Kamil\source\repos\sortowania\sortowania\intro_sort.h(37,31): warning C4244: "argument": konwersja z "__int64" do "int", możliwa utrata danych
+  Trwa generowanie kodu
+  2 of 277 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  sortowania.vcxproj -> C:\Users\Kamil\source\repos\sortowania\x64\Release\sortowania.exe

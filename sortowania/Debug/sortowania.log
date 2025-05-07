@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Kamil\source\repos\sortowania\sortowania\main.cpp(54,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Kamil\source\repos\sortowania\sortowania\intro_sort.h(87,22): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Kamil\source\repos\sortowania\sortowania\main.cpp(111): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void introSort<int>(T [],int,int)” funkcji szablon
+          with
+          [
+              T=int
+          ]
+  sortowania.vcxproj -> C:\Users\Kamil\source\repos\sortowania\Debug\sortowania.exe
